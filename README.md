@@ -1,4 +1,4 @@
-# test
+# Vue CLI 3 Starter
 
 ## Project setup
 
