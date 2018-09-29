@@ -1,4 +1,4 @@
-# Vue CLI 3 Starter
+# Vue CLI 3 Starter (WIP)
 
 ## Project setup
 
